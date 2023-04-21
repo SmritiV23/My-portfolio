@@ -12,12 +12,13 @@ const Portfolio = () => {
       id: 1,
       src: museum,
       gitlink: 'https://github.com/SmritiV23/Museum-Of-Candy',
+      demo: 'https://museumofcandy100.netlify.app/'
     },
     {
       id: 2,
       src: pingPong,
       gitlink: 'https://github.com/SmritiV23/Ping-Pong-Game',
-      demo:''
+      demo:'https://github.com/SmritiV23/Ping-Pong-Game'
     },
     {
       id: 3,
